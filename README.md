@@ -69,4 +69,9 @@ Page 1:
 Page 2:
 <img width="1015" height="572" alt="image" src="https://github.com/user-attachments/assets/43d43af7-5b51-4c6d-9e1b-21dd2a824095" />
 
-
+📂 Data Files
+* Netflix_Data_Analysis.pbix → Power BI project file containing all visualizations, models, and dashboard pages.
+* original_netflix_dataset.csv → Original Dataset imported from kaggle.
+* netflix_transformed.csv → Cleaned and transformed dataset after data preparation in Power Query.
+* category_mapping.csv → Separate mapping table showing each show’s association with multiple categories.
+* README.md → Project overview, key learnings, and documentation of transformations and visuals.
